@@ -17,7 +17,7 @@ public class Task3 {
         int max = 0; 
         int min = 10; 
         
-        System.out.println("----- Задание 2 ------\n");
+        System.out.println("----- Задание 3 ------\n");
         
         int[] myArr;
         myArr = new int[10];

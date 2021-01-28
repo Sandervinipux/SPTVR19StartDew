@@ -11,7 +11,7 @@ package startdev;
  */
 public class Task4 {
     public void run(){
-        System.out.println("----- Task 4 ------");
+        System.out.println("----- Задание 4 ------");
         System.out.println("Создайте массив из 10 элементов четных чисел: ");
         int [] myArr; 
         myArr = new int[10];
